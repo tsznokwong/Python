@@ -1,0 +1,336 @@
+ACCT 2010
+ACCT 2010 or ACCT 2020
+ACCT 3020
+ACCT 3020
+ACCT 5100 or ACCT 5150
+ACCT 5160
+ACCT 5630
+BIPH 2010 AND (LIFS 2010 OR LIFS 2040) AND (PHYS 1114 OR PHYS 1314)
+BTEC 6930
+CENG 2110 AND CENG 2210
+CHEM 1010 OR CHEM 1020
+CENG 3120
+CHEM 1010 OR CHEM 1020
+CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4970
+Level 3 or above in HKDSE 1/2x Chemistry OR CHEM 1004
+Level 3 or above in HKDSE 1x Chemistry
+Level 3 or above in HKDSE 1/2x OR level 3 or above in HKDSE 1x Chemistry OR CHEM 1004
+CHEM 1030
+(CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 1030
+CHEM 1030
+CHEM 1030
+(CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 1030 AND (MATH 1014 OR MATH 1020 OR MATH 1024)
+CHEM 1030 AND (MATH 1014 OR MATH 1020 OR MATH 1024)
+CHEM 3120
+CHEM 3120
+CHEM 3550
+CHEM 3555
+CHEM 3550
+CHEM 3555
+CHEM 2310 OR CHEM 2311
+CHEM 2310 OR CHEM 2311
+(CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+(CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+CHEM 2110 AND CHEM 2210 AND CHEM 2410
+CHEM 3550
+CHEM 3555
+(for Science students) (CHEM 2110 OR CHEM 2118 (prior to 2013-14)) AND (CHEM 2410 OR CHEM 2418); (for Engineering students) CHEM 2111
+CHEM 2150 AND CHEM 2250
+CHEM 3550 AND CHEM 3555
+CHEM 3550 AND CHEM 3555
+CHEM 4691
+CHMS 5201
+PHYS 1112 OR PHYS 1312
+CIVL 2110
+CIVL 2110 AND CIVL 2120
+CIVL 2510
+CIVL 2120
+MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1014 OR MATH 1020 OR MATH 1023 OR MATH 1024
+CIVL 3310
+CIVL 2410 OR ENVR 2010
+CIVL 2410 OR ENVR 3210
+CIVL 3420
+CIVL 2160 and CIVL 3520 and CIVL 3530 and IELM 3020 (prior to 2014-15)
+CIVL 3610 or CIVL 3620
+CIVL 2410
+CIVL 3420
+CIVL 3740 or equivalent
+Hydraulics or a second course of fluid mechanics, differential equations, computer programming perferrable
+COMP 1002 (prior to 2013-14) OR COMP 1004 (prior to 2013-14) OR COMP 1021 OR COMP 1022P OR COMP1022Q
+COMP 1021 OR COMP 1022P OR COMP 1022Q OR ISOM 3230 OR ISOM 3320
+COMP 1002 (prior to 2013-14) OR COMP 1004 (prior to 2013-14) OR COMP 1021 OR COMP 1022Q OR ISOM 3230
+COMP 1002 (prior to 2013-14) OR COMP 1004 (prior to 2013-14) OR COMP 1022P OR COMP 1022Q OR ISOM 3230 OR ISOM 3320
+COMP 1002 (prior to 2013-14) OR COMP 1004 (prior to 2013-14) OR COMP 1021 OR COMP 1022P OR ISOM 3320
+COMP 1021 OR COMP 1022P OR COMP 1022Q OR ISOM 3230
+COMP 1004 (prior to 2013-14) OR COMP 2011
+Grade A or above in COMP 1002 (prior to 2013-14) / COMP 1021 / COMP 1022P / COMP 1022Q / ISOM 3230
+COMP 1004 (prior to 2013-14) OR COMP 2011 OR COMP 2012H
+COMP 2711H, MATH 2343
+Grade B or above in AL Pure Mathematics/AL Applied Mathematics; OR level 5* or above in HKDSE Mathematics Extended Module M1/M2; OR grade A- or above in MATH 1014; OR grade B+ or above in MATH 1020 / MATH 1024
+COMP 2012 OR COMP 2012H
+COMP 2012 OR COMP 2012H
+COMP 2012 OR COMP 2012H
+Grade A- or above in COMP 2012 / COMP 2012H
+COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 2611 OR [ELEC 2300 AND (COMP 1002 (prior to 2013-14) OR COMP 1004 (prior to 2013-14) OR COMP 2011 OR COMP 2012H)]
+COMP 2012 OR COMP 2012H
+(COMP 2011 OR COMP 2012 OR COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343)
+(Grade B+ or above in  COMP 2011 / COMP 2012 / COMP 2012H) AND (grade A- or above in COMP 2711 / COMP 2711H / MATH 2343)
+(COMP 3711 OR COMP 3711H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+COMP 2012 OR COMP 2012H
+COMP 3311
+IELM 2510 OR ISOM 2500 OR LIFS 3150 OR MATH 2411
+(COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2011 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+COMP 2011
+COMP 3511
+COMP 2011 OR COMP 2012H
+(COMP 2012 OR COMP 2012H) AND (COMP 3711 OR COMP 3711H)
+COMP 6911
+Grade C/D/E in HKAL Economics OR level 3 or above in HKDSE Economics
+MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1023; OR grade D or above in AL Applied Mathematics/Pure Mathematics
+One of ECON 2103, ECON 2113 or ECON 2913 (prior to 2013-14)
+ECON 2123
+ECON 3113
+ECON 3123
+One of ISOM 2500, MATH 2411 or MATH 3423
+ECON 2103 OR ECON 2113
+One of ECON 3113 or ECON 3014
+ECON 3334
+ECON 2123 or ECON 3123
+(ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+(ECON 3014 AND ECON 3024) OR (ECON 3113 AND ECON 3123)
+ECON 3014 or ECON 3133
+ISOM 2500 or MATH 2411 or MATH 3423
+ECON 5130 AND ECON 5140
+ECON 5250 AND ECON 5260
+ELEC 1200 AND (MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+(ELEC 1100 OR ELEC 1200 OR ELEC 2400 OR ELEC 2410 (prior 2016-17)) AND Grade A- or above in (MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+ELEC 1100 OR ELEC 1200
+ELEC 1100 AND (MATH 1003 OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024)
+MATH 1014 OR MATH 1020 OR MATH 1024
+A passing grade in AL Pure Mathematics OR MATH 1003 OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+Grade A- or above in MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+(ELEC 2100 OR ELEC 2100H) AND MATH 2111 AND MATH 2351
+COMP 2611 or ELEC 2300
+ELEC 2200; and ELEC 2400 or ELEC 2410 (prior to 2016-17)
+(Level 3 or above in HKDSE 1/2x or 1x Chemistry OR a passing grade in HKCEE Chemistry OR CHEM 1001 OR CHEM 1004) AND (ELEC 2400 OR ELEC 2410 (prior to 2016-17))
+ELEC 2600 AND MATH 2111
+MATH 2111
+ELEC 3100 AND MATH 2111
+ELEC 2100
+(COMP 1021 OR COMP 1022P OR COMP 1022Q) AND ELEC 2100
+ELEC 2300
+ELEC 2200
+ELEC 2200 AND ELEC 2400
+ELEC 2100 AND MATH 2011 AND MATH 2111
+ENVR 2001
+CIVL 1170 OR ENVR 1170
+MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1014 OR MATH 1020 OR MATH 1023 OR MATH 1024
+ENVR 2001 and ENVR 3001
+ENVR 4980
+LIFS 1030 OR PHYS 1003
+CHEM 1030 OR CHEM 2311
+LIFS 1030 OR LIFS 2060
+CHEM 1030 OR LIFS 1030
+ACCT 2010 and ISOM 2500
+FINA 2203 or FINA 2303
+FINA 3103
+FINA 2203 OR FINA 2303
+FINA 3303
+FINA 3103
+FINA 2203 OR FINA 2303
+FINA 3103
+FINA 3103
+FINA 5210
+FINA 5120
+FINA 5210
+FINA 5120 or FINA 5210
+FINA 5120
+FINA 5290
+ACCT 5150 AND FINA 5120
+FINA 790I prior to 2011-12; FINA 7900A from 2011-12
+FINA 7900B (or FINA 790E prior to 2011-12)
+[C] Require Chinese reading
+IELM 2510
+CIVL 2160 OR ELEC 2600 OR IELM 2510 OR ISOM 2500 OR MATH 2411 OR MATH 2421 OR MATH 2431
+IELM 3010
+IELM 3010
+IELM 4100
+IELM 3010
+ISOM 3230 AND ISOM 3360
+ISOM 2010
+(For non-BSc in Quantitative Finance students) ISOM 2010
+ISOM 3230 OR ISOM 3320
+ISOM 2010
+ISOM 3230
+ISOM 2500 or MATH 2411
+ISOM 2700
+ACCT 2010 and ISOM 2010
+IELM 2510 OR ISOM 2500 OR MATH 2411
+ISOM 2700
+ISOM 2700
+ISOM 2700
+ISOM 2700 AND ISOM 3710
+(ISOM 2500 OR MATH 2411) AND ISOM 2700
+ISOM 5510
+ISOM 5700
+LANG 1003
+LANG 1003
+LANG 1003
+LANG 1003
+LANG 1003
+LANG 1003
+Level 4 or above in HKDSE Chinese, LANG 1114, LANG 1115, LANG 1116, LANG 1117, LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+This course seeks to enhance the market competitiveness of HKUST graduates by making them effective users of spoken Putonghua and Standard Written Chinese in meeting communicative needs in academic, social and professional contexts. The course materials and activities help students acquire fluency and accuracy in the use of Chinese by engaging them in authentic communication tasks based on real-life situations and needs. Students' mastery of Putonghua phonology and Chinese syntax and lexis will also be enhanced through in-class teaching and outside class practice.
+Level 4 or above in HKDSE Chinese, LANG 1114, LANG 1115, LANG 1116, LANG 1117, LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+This course seeks to advance the Putonghua speaking and Chinese writing abilities of local Hong Kong students who have attained a reasonably high standard in Chinese language on leaving secondary schools. The course materials and learning tasks help students to engage in rigorous intellectual analysis of academic and socio-economic issues and formulate coherent arguments for Putonghua speaking and Chinese writing in demanding situations such as participation in public fora and writing critical essays for publication in the media.
+This course seeks to advance the Putonghua speaking and Chinese writing abilities of local Hong Kong students who have attained a reasonably high standard in Chinese language on leaving secondary schools. The course materials and learning tasks help students to engage in rigorous intellectual analysis of academic and socio-economic issues and formulate coherent arguments for Putonghua speaking and Chinese writing in demanding situations such as participation in public fora and writing critical essays for publication in the media.
+This course builds on the groundwork laid in LANG 1120, and takes students to a higher level of understanding of Putonghua phonology and a stronger communicative competence in using Chinese in daily and social situations. The course is restricted to students with non‐Chinese language backgrounds. Instructors’ approval is required for students with Chinese backgrounds who are from international schools of Hong Kong, China Mainland and other Asian countries, also for overseas students with either Mandarin or Cantonese language backgrounds. For students without prerequisite but with prior Chinese learning experience of approximately 50 hours may seek instructors’ approval to enroll in the course.
+This course builds on the groundwork laid in LANG 1120 and LANG 1121, and takes students to a higher level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in daily, social and professional situations. The course is restricted to students with non-Chinese language backgrounds. Instructors’ approval is required for students with Chinese backgrounds who are from international schools of Hong Kong, China Mainland and other Asian countries, also for overseas students with either Mandarin or Cantonese language backgrounds. For students without prerequisite but with prior Chinese learning experience of approximately 100 hours may seek instructors’ approval to enroll in the course.
+This course builds on the groundwork laid in LANG 1120, LANG 1121 and LANG 1122, and takes students to an intermediate level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in social, professional and business situations.  The course is restricted to students with non-Chinese language backgrounds. Instructors’ approval is required for students with Chinese backgrounds who are from international schools of Hong Kong, China Mainland and other Asian countries, also for overseas students with either Mandarin or Cantonese language backgrounds. For students without prerequisite but with prior Chinese learning experience of approximately 150 hours may seek instructors’ approval to enroll in the course.
+This course builds on the groundwork laid in LANG 1120, LANG 1121 and LANG 1122 and LANG 1123, and takes students to an intermediate-high level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in social and professional situations. Restricted to students with non-Chinese language backgrounds only. Students without the prerequisite but with approximate 200 hours of prior Chinese learning experience or attained level 4 in the HSK Chinese Proficiency Test may seek instructor’s approval for enrollment in the course.
+This course builds on the groundwork laid in LANG 1120, LANG 1121 and LANG 1122 and LANG 1123, and LANG 1124, and takes students to an intermediate-high level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in social and professional situations. Restricted to students with non-Chinese language backgrounds only. Students without the prerequisite but with approximate 250 hours of prior Chinese learning experience or attained level 4/5 in the HSK Chinese Proficiency Test may seek instructor’s approval for enrollment in the course.
+This course builds on the groundwork laid in LANG 1120, LANG 1121 and LANG 1122 and LANG 1123, LANG 1124 and LANG 1125, and takes students to a high level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in social and professional situations. Restricted to students with non-Chinese language backgrounds only. Students without the prerequisite but with approximate 300 hours of prior Chinese learning experience or attained level 5 in the HSK Chinese Proficiency Test may seek instructor’s approval for enrollment in the course.
+This course builds on the groundwork laid in LANG 1120, LANG 1121 and LANG 1122 and LANG 1123, LANG 1124, LANG 1125 and LANG 1126, and takes students to a high level of understanding of spoken Chinese and a stronger communicative competence in using Chinese in social and professional situations. Restricted to students with non-Chinese language backgrounds only. Students without the prerequisite but with approximate 350 hours of prior Chinese learning experience or attained level 6 in the HSK Chinese Proficiency Test may seek instructor’s approval for enrollment in the course.
+LANG 1001 (prior to 2013-14) OR LANG 1003
+LANG 1001 (prior to 2013-14) OR LANG 1003
+LANG 1001 (prior to 2013-14) OR LANG 1003
+LANG 1001 (prior to 2013-14) OR LANG 1003
+LANG 1003
+LANG 2010
+LANG 2010
+LANG 2010
+LANG 1003
+LANG 2010
+LANG 2070
+LANG 2083
+LANG 3014
+LANG 2030
+LANG 2030
+LANG 2030
+LANG 2030
+LIFS 1901 OR level 3 or above in HKDSE 1x Biology OR a passing grade in AL/AS Biology
+LIFS 1902
+LIFS 1902
+LIFS 1901 OR LIFS 1902
+LIFS 2210 and LIFS 2220
+LIFS 2040 AND LIFS 2210
+LIFS 2040 OR LIFS 2210
+LIFS 2040 and LIFS 2240
+LIFS 3510 OR SCIE 3500
+LIFS 2040
+LIFS 2040
+CENG 1600 OR LIFS 2040
+LIFS 2210 OR LIFS 3140
+LIFS 2040
+LIFS 2040
+LIFS 3110
+LIFS 4971 OR SCIE 4500
+LIFS 4973 OR SCIE 4500
+MARK 2120
+MARK 2120
+MARK 2120
+MARK 2120
+MARK 2120
+MARK 2120
+MARK 2120
+MARK 6500 (prior to 2012-13)
+MATH 1012
+MATH 1012 OR MATH 1013 OR MATH 1023 OR grade A- or above in MATH 1003
+This is the first in the sequence MATH 1023 – MATH 1024 of honors courses in one-variable calculus, with particular emphasis on rigorous mathematical reasoning. Topics include inequalities, functions and their graphs, vectors, limit and continuity, extreme value theorem, intermediate value theorem derivatives and differentiation rules, mean value theorem, l'Hôpital's rule, Taylor expansion, and applications of derivatives.
+A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014; OR MATH 1018 (prior to 2013-14); OR MATH 1020; OR MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+Grade A in AL Pure Mathematics; or grade A- or above in MATH 1014/MATH 1018 (prior to 2013-14)/MATH 1020/MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR MATH 1024
+A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1018 (prior to 2013-14) OR MATH 1020 OR  MATH 1024
+IELM 2510 OR ISOM 2500 OR LIFS 3150 OR MATH 2411
+MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+(MATH 2010 (prior to 2013-14) / MATH 2011 / MATH 2021 (prior to 2013-14) / MATH 2023) AND (MATH 2031 (prior to 2013-14) / MATH 2033 / MATH 2043) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350)
+Grade A- or above in MATH 2043
+MATH 2111/MATH 2121/MATH 2131/MATH 2350
+(COMP 1002 (prior to 2013-14) / COMP 1004 (prior to 2013-14) / COMP 1021 / COMP 1022P / COMP 1022Q) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (MATH 2031 / MATH 2033 / MATH 2043)
+MATH 2421 OR MATH 2431
+MATH 2010 (prior to 2013-14)/MATH 2011/MATH 2021 (prior to 2013-14)/MATH 2023/MATH 3043 and MATH 2111/MATH 2121/MATH 2131/MATH 2350 and MATH 2350/MATH 2351/MATH 2352
+MATH 2131
+MATH 2011/MATH 2021 (prior to 2013-14)/MATH 2023/MATH 3043 and MATH 2121/MATH 2131
+MATH 4052
+MATH 2411
+(ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431) AND (MATH 2010 (prior to 2013-14) OR MATH 2011 OR MATH 2021 (prior to 2013-14) OR MATH 2023) AND MATH 2511
+(MATH 2010 (prior to 2013-14) / MATH 2011 / MATH 2021 (prior to 2013-14) / MATH 2023) AND (MATH 2111 / MATH 2121 /  MATH 2131 / MATH 2350) AND (IELM 2510 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (FINA 2203 / FINA 2303)
+ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+MATH 4321
+MATH 2350 AND MATH 2023 AND MATH 2421
+MATH 3121
+MATH 3312
+MATH 3424
+MATH 5111 and MATH 5143
+MATH 2343 or MATH 3343
+MAFS 5030 AND MAFS 5040
+MATH 5311
+MATH 5312
+MATH 4033
+MATH 5143
+(MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+MECH 2020
+MECH 2310
+MECH 2210 AND MECH 2310
+MECH 2410
+MECH 2520
+CENG 2220 OR CIVL 2510 OR MECH 1907 OR MECH 2210
+CIVL 2120 OR MECH 1907 OR MECH 2040
+MECH 2040 AND MECH 2410
+(MECH 3610 OR ELEC 3200) AND (ELEC 2420 OR PHYS 1112) AND (MATH 2011 OR MATH 2111 OR MATH 2351)
+MECH 2310 and MECH 3610
+MECH 3640 AND MECH 3650
+MECH 3640
+(for non-BIBU students) MGMT 2010
+MGMT 2110
+MGMT 2110
+MGMT 2110
+This course introduces students to origin of modern astronomy, gravity, light and telescope, star light and atoms, stars (binary, formation, evolution, death), neutron stars and black holes, normal galaxies, peculiar galaxies, cosmology, the solar system, life on other world. Students without the physics prerequisite but have taken PHYS 1001 or equivalent may seek instructor’s approval for enrolling in the course.
+PHYS 1111 and PHYS 1112 target students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1312. PHYS 1111 employs an algebra-based approach. Students with knowledge of calculus should take PHYS 1112 instead. Key topics include motions and Newton's laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. For students under the 4-year degree only. Students with a passing grade in any MATH courses coded between 1000 and 1600 need to seek instructor’s approval for enrolling in this course.
+PHYS 1111 and PHYS 1112 target students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1312. PHYS 1112 employs a calculus-based approach. Students without knowledge of calculus should take PHYS 1111 instead. Key topics include motions and Newton’s Laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. For students under the 4-year degree only. Students without the physics prerequisite but have taken PHYS 1001 or equivalent, and/or without the mathematics prerequisite but have taken MATH 1012/ MATH 1013/ MATH 1020/ MATH 1023 or equivalent may seek instructor’s approval for enrolling in the course.
+(PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (level 3 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+This course is a more in-depth version of PHYS 1112. It is intended to provide a solid foundation to students who wish to take more advanced physics courses in the future. Key topics include motions and Newton’s Laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. Students without the prerequisite may seek instructor’s approval for enrolling in the course. For students under the 4-year degree only.
+PHYS 1114 OR PHYS 1154 (prior to 2014-15) OR PHYS 1314 OR PHYS 2421 (prior to 2013-14)
+CGA at 2.70 or above
+MATH 2023 AND MATH 2121 AND (MATH 2352 OR PHYS 2124)
+PHYS 1114 OR PHYS 1154 (prior to 2014-15) OR PHYS 1314 OR PHYS 2421 (prior to 2013-14)
+PHYS 1114 (Grade B- or above) OR PHYS 1154 (Grade B- or above) (prior to 2014-15) OR PHYS 1314
+PHYS 2022
+CGA at 2.70 or above
+CGA at 2.70 or above
+PHYS 1114 OR PHYS 1314
+PHYS 1114 OR PHYS 1314
+PHYS 2022
+PHYS 3031/MATH 4052, AND PHYS 3036/PHYS 3037
+PHYS 3036 OR PHYS 3037
+PHYS 3031 OR PHYS 4050
+CGA at 2.70 or above
+CGA at 2.70 or above
+PHYS 1113 AND PHYS 1115
+PHYS 3152 AND PHYS 3153
+PHYS 3152 AND PHYS 3153
+ISOM 2500 or MATH 2411
+(ISOM 2500 OR MATH 2411) AND ISOM 2700
+ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+RMBI 4980
+(for IRE students in LIFS, MATH, PHYS and ENVS) SCIE 2500; (for IRE students in CHEM) SCIE 2500 AND CHEM 3550
+SCIE 1500
+SCIE 3500
+SOSC 2400
+ECON 2103 or SOSC 1350 or SOSC 1440
+ENVR 3110 OR SOSC 1170 OR SOSC 3150 OR SOSC 3180 (prior to 2013-14)
+UROP 1100
+UROP 2100
+UROP 3100
